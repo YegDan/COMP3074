@@ -1,12 +1,13 @@
 import React from 'react';
-import { Text } from 'react-native';
+import {Text } from 'react-native';
 //import Header from '../components/header/Header'; 
 
-const HomeScreen = () => {
+const FavoritesScreen = () => {
   return (
-    <Text>This is Home Screen</Text>
-   
     
+    <Text>This is Favorites Screen</Text>
+    
+
   );
 };
 
@@ -16,4 +17,4 @@ const HomeScreen = () => {
 //   },
 // });
 
-export default HomeScreen;
+export default FavoritesScreen;
